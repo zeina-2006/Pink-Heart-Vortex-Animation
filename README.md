@@ -1,2 +1,6 @@
-# Pink-Heart-Vortex-Animation
-An interactive web page featuring artistic visual effects and animations (Vortex &amp; Hearts)
+# 💖 Pink Heart Vortex Animation
+
+صفحة تفاعلية بلغات الويب تحتوي على تأثيرات بصرية فنية وتصميم مذهل (Vortex/Hearts) لعشاق البرمجة الإبداعية.
+
+## 🚀 طريقة الاستخدام
+افتحي ملف `pink_heart_vortex_html.html` مباشرة في المتصفح للاستمتاع بالتأثيرات البصرية والحركة.
